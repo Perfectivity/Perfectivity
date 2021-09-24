@@ -5,7 +5,3 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=WeChat&logoColor=white"/>
 <img src="https://img.shields.io/badge/TencentQQ-EB1923?style=flat-square&logo=TencentQQ&logoColor=white"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Perfectivity&theme=radical)](https://github.com/Perfectivity/github-readme-stats)
-
-
